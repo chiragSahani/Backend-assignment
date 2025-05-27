@@ -1,7 +1,7 @@
 
 <h1 align="center">🌀 Möbius Strip Visualizer & Geometry Analyzer</h1>
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mobius_strip.jpg/320px-Mobius_strip.jpg" alt="Mobius Strip" width="220"/>
+  <img src="https://res.cloudinary.com/dlyctssmy/image/upload/v1748324730/2012_10_31-mobifab_e2n7fg.gif" alt="Mobius Strip" width="220"/>
 </p>
 <p align="center">
   <b>Discover the magic of topology through interactive 3D visualization and numerical geometry!</b>
@@ -122,5 +122,5 @@ Pull requests, ideas, and issues are welcome!
 <p align="center">
   <i>Made with 🧠 + 🌀 by ChiragSahani</i>
 </p>
-```
+
 
